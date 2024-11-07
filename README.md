@@ -41,5 +41,9 @@ completion = client.chat.completions.create(
 print(completion.choices[0].message.content)
 ```
 
-## 更多内容
-- 
+## 示意图
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/0c05127d-8bd9-481c-9774-beca61a20a8e">
+
+
+## 更多内容(积累沉淀）
+- https://github.com/XiaomingX/simplellm
